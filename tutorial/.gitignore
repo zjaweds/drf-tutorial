@@ -1,0 +1,34 @@
+# Byte-compiled and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# Django-specific files
+db.sqlite3
+media/
+static/
+
+# Logs
+logs/
+*.log
+
+# Migrations (optional)
+*/migrations/
+
+# Local development settings
+settings_local.py
+
+# VS Code and IDE files
+.vscode/
+.idea/
+*.swp
+
+# Node.js dependencies (if applicable)
+node_modules/
+
